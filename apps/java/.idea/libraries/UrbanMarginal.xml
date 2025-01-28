@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UrbanMarginal">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/UrbanMarginal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

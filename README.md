@@ -44,3 +44,7 @@ MCD associé :
 ![mcd](assets/2.2.png)
 
 ## Exercice 3
+
+Diagramme de classe associé :
+
+![class_diagram](assets/3.png)
